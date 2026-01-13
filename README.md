@@ -83,6 +83,7 @@ python cli.py \
 python cli.py \
   --video https://example.com/video.mp4 \
   --text "Video description"
-
+  
+Password: 92*Uplod23aAt
 
 
